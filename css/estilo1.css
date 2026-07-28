@@ -7,6 +7,10 @@ body {
     background-color: #f9f9f9;
 }
 
+header h1 {
+    color: #fff;
+}
+
 h1, h2 {
     text-align: center;
     color: #5a0e0e;
