@@ -11,6 +11,10 @@ header h1 {
     color: #fff;
 }
 
+header h2 {
+    color: #5a0e0e;
+}
+
 h1, h2 {
     text-align: center;
    /* color: #5a0e0e;*/
